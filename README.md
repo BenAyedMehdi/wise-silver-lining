@@ -2,7 +2,7 @@
 
 ## Junction X Hackathon Project
 
-##[Demo](https://silverlining-wise.netlify.app/)
+[Demo](https://silverlining-wise.netlify.app/)
 
 ## Team Members
 
